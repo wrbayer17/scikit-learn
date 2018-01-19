@@ -1,5 +1,5 @@
 """
-Logistic Regression
+This is Not Logistic Regression
 """
 
 # Author: Gael Varoquaux <gael.varoquaux@normalesup.org>
